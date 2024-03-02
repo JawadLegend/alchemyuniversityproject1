@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "Buffer": "^0.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
